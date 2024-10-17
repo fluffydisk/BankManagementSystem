@@ -1,0 +1,15 @@
+# Ignore Visual Studio user-specific files
+*.user
+*.suo
+*.VC.db
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore the .vs folder (Visual Studio workspace settings)
+.vs/
+
+# Ignore temp/backup files
+*.tmp
+*.log
