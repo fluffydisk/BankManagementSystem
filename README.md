@@ -1,4 +1,4 @@
-💻 Bank Management System (C++)
+# 💻 Bank Management System (C++)
 
 This project is a Bank Management System developed in C++ that simulates basic bank account functionalities. It allows users to create accounts, sign in, transfer money, and view logs of all transactions and account activities. The system features a simple console-based interface and is designed to help understand core concepts of C++ such as object-oriented programming (OOP), file handling, and account security with logging.
 🎮 Features
